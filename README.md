@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @steventyler001
+- 👀 I’m interested in some script languages
+- 🌱 I’m currently learning somethings about java
